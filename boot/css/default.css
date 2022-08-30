@@ -57,8 +57,19 @@ border:1px solid #558ab7 !important;
 
 /* nav  */
 #gnb > h2 {position:absolute;font-size:0;line-height:0;overflow:hidden}
-.gnb_1dli a{font-size: 1.3em;padding: 0 20px;font-weight: bold;}
+.gnb_1dli a{font-size: 1.3em;padding: 50px 50px;font-weight: bold; color: rgb(0, 0, 0);}
+.gnb_1dli a:hover{color: #08bfe5;}
+
+.login1 img{width: 60px; display: flex; padding: 30px 0; margin-left: 40px; }
+.login2 img{padding: 55px 0; }
+.containerLogin{font-weight: bold; font-size: 15px; padding: 0 10px;}
 
 .view{ margin: 0 auto; display: flex; justify-content: center;}
 
-.container .textWrap .text1 {font-size: 40px;}
+
+.container1{display: flex; justify-content: center; align-items: center; padding: 100px;}
+.containertext1{font-weight: bold; padding: 0 70px; font-size: 45px;}
+.containertext2{font-size: 20px;}
+.containertext2 strong{color: rgb(0, 180, 150);}
+
+
