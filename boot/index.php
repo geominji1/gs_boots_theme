@@ -14,7 +14,13 @@ if(G5_COMMUNITY_USE === false) {
 
 include_once(G5_THEME_PATH.'/head.php');
 ?>
-<div class="bg-success p-3">1</div>
+
+
+
+
+<div class="container bg-dark cont">
+
+</div>
 
 <?php
 include_once(G5_THEME_PATH.'/tail.php');

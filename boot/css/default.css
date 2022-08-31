@@ -54,10 +54,17 @@ border:1px solid #558ab7 !important;
 .navbar-brand .logo {width: 80%;}
 
 
+/* 메인메뉴 */
+
+.navbarDropdownMenuLink{font-size:20px;padding: 50px 50px;font-weight: bold; color: rgb(0, 0, 0);}
+.nav-item > a{}
+
+.nav-link:focus, .nav-link a:hover  {
+  color: #08bfe5;}
 
 /* nav  */
 #gnb > h2 {position:absolute;font-size:0;line-height:0;overflow:hidden}
-.gnb_1dli a{font-size: 1.3em;padding: 50px 50px;font-weight: bold; color: rgb(0, 0, 0);}
+.gnb_1dli a{}
 .gnb_1dli a:hover{color: #08bfe5;}
 
 .login1 img{width: 60px; display: flex; padding: 30px 0; margin-left: 40px; }
@@ -71,5 +78,9 @@ border:1px solid #558ab7 !important;
 .containertext1{font-weight: bold; padding: 0 70px; font-size: 45px;}
 .containertext2{font-size: 20px;}
 .containertext2 strong{color: rgb(0, 180, 150);}
+
+
+.classBook .lemon2{position: relative; display: flex; justify-content: center; align-items: center; right: 0; }
+.containertext3{position: absolute; font-weight: bold; padding: 0 70px; font-size: 45px;} 
 
 
